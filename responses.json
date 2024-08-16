@@ -1,0 +1,67 @@
+{
+    "\\bhello\\b|\\bhi\\b": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help?",
+        "Hey! What can I do for you?"
+    ],
+    "\\bhow are you\\b|\\bhow\\b": [
+        "I'm just a bot, but I'm doing great! How about you?",
+        "I'm functioning as expected. How are you?",
+        "All systems go! How are you feeling?"
+    ],
+    "\\bname\\b|\\bwhat is your name\\b": [
+        "I'm your friendly chatbot!",
+        "You can call me ChatBot!",
+        "I'm ChatBot, your virtual assistant!"
+    ],
+    "\\bbye\\b|\\bgoodbye\\b": [
+        "Goodbye! Have a nice day!",
+        "See you later! Take care!",
+        "Farewell! Have a great day!"
+    ],
+    "\\bwhat can you do\\b|\\bdo\\b": [
+        "I can help answer your questions and provide information.",
+        "I'm here to assist you with any inquiries you have.",
+        "I can chat with you and provide useful information."
+    ],
+    "\\btime\\b|\\bwhat is the time\\b": [
+        "I'm not equipped with a clock, but you can check your device!",
+        "I can't tell the time, but your device can!",
+        "Unfortunately, I can't tell the time. Can I help with something else?"
+    ],
+    "\\bwhere are you from\\b|\\bwhere\\b": [
+        "I'm from the world of code!",
+        "I live in the digital realm.",
+        "I'm a creation of artificial intelligence."
+    ],
+    "\\bcolor\\b|\\bwhat's your favorite color\\b": [
+        "I love all colors equally!",
+        "I don't have a favorite color, but blue is nice!",
+        "Colors are fascinating, don't you think?"
+    ],
+    "\\bfood\\b|\\bwhat's your favorite food\\b": [
+        "I don't eat, but I hear pizza is popular!",
+        "I can't eat, but I enjoy learning about different foods!",
+        "Food is amazing! I wish I could try some."
+    ],
+    "\\bjoke\\b|\\btell me a joke\\b": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why don't some couples go to the gym? Because some relationships don't work out!"
+    ],
+    "\\bweather\\b|\\bwhat's the weather\\b": [
+        "I can't check the weather, but you can use a weather app!",
+        "I'm not equipped to check the weather. Try a weather website!",
+        "Unfortunately, I can't provide weather updates."
+    ],
+    "\\bold\\b|\\bhow old are you\\b": [
+        "Age is just a number! I'm timeless.",
+        "I was created recently, but I don't age like humans do.",
+        "In human years, I'm ageless!"
+    ],
+    "\\bhobbies\\b|\\bdo you have hobbies\\b": [
+        "I enjoy helping people and learning new things!",
+        "My hobby is assisting you with your questions.",
+        "I love chatting with you and providing information!"
+    ]
+}
